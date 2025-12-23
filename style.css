@@ -165,8 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url(" Alok-website
-/banner2.PNG") no-repeat center;
+    background: url("banner2.PNG") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -679,4 +678,5 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
 
